@@ -1,10 +1,10 @@
-# 0x01-ES6_promises
+# 0x02-ES6_classes
 
 This repository contains javascript projects provided by ALX.
 
 ## Projects Included
 
-1. **0-promise.js**
+1. **0-classroom.js**
 2. **Project 2:** Description of project 2.
 3. **Project 3:** Description of project 3.
 
